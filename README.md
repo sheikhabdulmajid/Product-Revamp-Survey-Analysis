@@ -1,5 +1,4 @@
 # Product-Revamp-Survey-Analysis
-Performed an analysis on the feedback received about an e-commerce startup Live Product solution and used the analysis to build product strategy
 
 Problem Statement: What does customer feedback say about an e-commerce startup app and how it can be improved.
 
